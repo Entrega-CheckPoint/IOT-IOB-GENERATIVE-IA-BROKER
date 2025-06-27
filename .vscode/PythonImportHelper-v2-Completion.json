@@ -1,0 +1,395 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "connection",
+        "description": "connection",
+        "isExtraImport": true,
+        "detail": "connection",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "paho.mqtt.client",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "paho.mqtt.client",
+        "description": "paho.mqtt.client",
+        "detail": "paho.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "mottu.database.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mottu.database.models",
+        "description": "mottu.database.models",
+        "detail": "mottu.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "SensorData",
+        "importPath": "mottu.database.models",
+        "description": "mottu.database.models",
+        "isExtraImport": true,
+        "detail": "mottu.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "mottu.database",
+        "description": "mottu.database",
+        "isExtraImport": true,
+        "detail": "mottu.database",
+        "documentation": {}
+    },
+    {
+        "label": "exit_code",
+        "kind": 5,
+        "importPath": "src.client.build.scons-debug",
+        "description": "src.client.build.scons-debug",
+        "peekOfCode": "exit_code = subprocess.call(\n    ['C:\\\\Users\\\\xfran\\\\Desktop\\\\challenge-mottu\\\\DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA\\\\software\\\\venv\\\\Scripts\\\\python.exe', '-W', 'ignore', 'C:\\\\Users\\\\xfran\\\\Desktop\\\\CHALLE~2\\\\DISRUP~1\\\\software\\\\venv\\\\Lib\\\\SITE-P~1\\\\nuitka\\\\build\\\\INLINE~1\\\\bin\\\\scons.py', '--quiet', '-f', 'C:\\\\Users\\\\xfran\\\\Desktop\\\\CHALLE~2\\\\DISRUP~1\\\\software\\\\venv\\\\Lib\\\\SITE-P~1\\\\nuitka\\\\build\\\\BACKEN~1.SCO', '--jobs', '12', '--warn=no-deprecated', '--no-site-dir', 'nuitka_src=C:\\\\Users\\\\xfran\\\\Desktop\\\\CHALLE~2\\\\DISRUP~1\\\\software\\\\venv\\\\Lib\\\\SITE-P~1\\\\nuitka\\\\build', 'python_version=3.13', 'python_prefix=C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313', 'experimental=', 'debug_modes=', 'deployment=false', 'no_deployment=', 'console_mode=force', 'noelf_mode=true', 'cpp_defines=_NUITKA_PLUGIN_MULTIPROCESSING_ENABLED=1', 'target_arch=x86_64', 'module_mode=false', 'dll_mode=false', 'exe_mode=true', 'standalone_mode=true', 'gil_mode=true', 'source_dir=.', 'nuitka_python=false', 'debug_mode=false', 'debugger_mode=false', 'python_debug=false', 'full_compat=false', 'trace_mode=false', 'file_reference_mode=runtime', 'compiled_module_count=327', 'result_exe=C:\\\\Users\\\\xfran\\\\Desktop\\\\CHALLE~2\\\\DISRUP~1\\\\software\\\\src\\\\CLIENT~1.DIS\\\\client.exe', 'frozen_modules=154', 'python_sysflag_no_site=true'],\n    env={'ALLUSERSPROFILE': 'C:\\\\ProgramData','APPDATA': 'C:\\\\Users\\\\xfran\\\\AppData\\\\Roaming','CHOCOLATEYINSTALL': 'C:\\\\ProgramData\\\\chocolatey','CHOCOLATEYLASTPATHUPDATE': '133913638903616217','CHROME_CRASHPAD_PIPE_NAME': '\\\\\\\\.\\\\pipe\\\\crashpad_9120_IWUIXOSEQBERRUZI','COMMONPROGRAMFILES': 'C:\\\\Program Files\\\\Common Files','COMMONPROGRAMFILES(X86)': 'C:\\\\Program Files (x86)\\\\Common Files','COMMONPROGRAMW6432': 'C:\\\\Program Files\\\\Common Files','COMPUTERNAME': 'FRANSRIDDLER','COMSPEC': 'C:\\\\Windows\\\\system32\\\\cmd.exe','CX_ORACLE': 'C:\\\\Program Files\\\\instantclient_23_5','DRIVERDATA': 'C:\\\\Windows\\\\System32\\\\Drivers\\\\DriverData','EFC_22356_1262719628': '1','EFC_22356_1592913036': '1','EFC_22356_2283032206': '1','EFC_22356_2775293581': '1','EFC_22356_3789132940': '1','FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer','FPS_BROWSER_USER_PROFILE_STRING': 'Default','HOMEDRIVE': 'C:','HOMEPATH': '\\\\Users\\\\xfran','INTELLIJ IDEA': 'C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA 2024.3.3\\\\bin;','INTELLIJ IDEA COMMUNITY EDITION': 'C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA Community Edition 2024.3.3\\\\bin;','JAVA_HOME': 'C:\\\\Program Files\\\\Java\\\\jdk-21','LOCALAPPDATA': 'C:\\\\Users\\\\xfran\\\\AppData\\\\Local','LOGONSERVER': '\\\\\\\\FRANSRIDDLER','MAVEN_HOME': 'C:\\\\ProgramData\\\\chocolatey\\\\lib\\\\maven\\\\apache-maven-3.9.9\\\\bin','NUMBER_OF_PROCESSORS': '12','ONEDRIVE': 'C:\\\\Users\\\\xfran\\\\OneDrive','ORIGINAL_XDG_CURRENT_DESKTOP': 'undefined','OS': 'Windows_NT','PATH': 'C:\\\\Users\\\\xfran\\\\Desktop\\\\challenge-mottu\\\\DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA\\\\software\\\\venv\\\\Scripts;C:\\\\Program Files (x86)\\\\Microsoft SDKs\\\\Azure\\\\CLI2\\\\wbin;C:\\\\Program Files\\\\Common Files\\\\Oracle\\\\Java\\\\javapath;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\Scripts\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\;C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.5.11-hotspot\\\\bin;C:\\\\Windows\\\\system32;C:\\\\Windows;C:\\\\Windows\\\\System32\\\\Wbem;C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\;C:\\\\Windows\\\\System32\\\\OpenSSH\\\\;C:\\\\Program Files (x86)\\\\NVIDIA Corporation\\\\PhysX\\\\Common;C:\\\\Program Files\\\\dotnet\\\\;C:\\\\Program Files\\\\NVIDIA Corporation\\\\NVIDIA NvDLISR;C:\\\\Program Files\\\\Git\\\\cmd;C:\\\\Program Files\\\\Microsoft SQL Server\\\\150\\\\Tools\\\\Binn\\\\;C:\\\\Program Files\\\\Microsoft SQL Server\\\\Client SDK\\\\ODBC\\\\170\\\\Tools\\\\Binn\\\\;C:\\\\Program Files\\\\nodejs\\\\;C:\\\\ProgramData\\\\chocolatey\\\\bin;C:\\\\ProgramData\\\\chocolatey\\\\lib\\\\maven\\\\apache-maven-3.9.9\\\\bin;C:\\\\Program Files\\\\Amazon\\\\AWSCLIV2\\\\;C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\Scripts\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\bin;C:\\\\Users\\\\xfran\\\\.dotnet\\\\tools;C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA 2024.3.3\\\\bin;;C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA Community Edition 2024.3.3\\\\bin;;C:\\\\Users\\\\xfran\\\\AppData\\\\Roaming\\\\npm;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\GitHubDesktop\\\\bin;c:\\\\Users\\\\xfran\\\\.vscode\\\\extensions\\\\ms-python.debugpy-2025.8.0-win32-x64\\\\bundled\\\\scripts\\\\noConfigScripts','PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL','PROCESSOR_ARCHITECTURE': 'AMD64','PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 186 Stepping 3, GenuineIntel','PROCESSOR_LEVEL': '6','PROCESSOR_REVISION': 'ba03','PROGRAMDATA': 'C:\\\\ProgramData','PROGRAMFILES': 'C:\\\\Program Files','PROGRAMFILES(X86)': 'C:\\\\Program Files (x86)','PROGRAMW6432': 'C:\\\\Program Files','PSMODULEPATH': 'C:\\\\Users\\\\xfran\\\\Documents\\\\WindowsPowerShell\\\\Modules;C:\\\\Program Files\\\\WindowsPowerShell\\\\Modules;C:\\\\Windows\\\\system32\\\\WindowsPowerShell\\\\v1.0\\\\Modules','PUBLIC': 'C:\\\\Users\\\\Public','PYTHONHASHSEED': '0','SESSIONNAME': 'Console','SYSTEMDRIVE': 'C:','SYSTEMROOT': 'C:\\\\Windows','TEMP': 'C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Temp','TMP': 'C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Temp','USERDOMAIN': 'FRANSRIDDLER','USERDOMAIN_ROAMINGPROFILE': 'FRANSRIDDLER','USERNAME': 'xfran','USERPROFILE': 'C:\\\\Users\\\\xfran','VBOX_MSI_INSTALL_PATH': 'C:\\\\Program Files\\\\Oracle\\\\VirtualBox\\\\','VIRTUAL_ENV': 'C:\\\\Users\\\\xfran\\\\Desktop\\\\challenge-mottu\\\\DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA\\\\software\\\\venv','VIRTUAL_ENV_PROMPT': 'venv','WINDIR': 'C:\\\\Windows','ZES_ENABLE_SYSMAN': '1','LANG': 'en_US.UTF-8','PYDEVD_DISABLE_FILE_VALIDATION': '1','BUNDLED_DEBUGPY_PATH': 'c:\\\\Users\\\\xfran\\\\.vscode\\\\extensions\\\\ms-python.debugpy-2025.8.0-win32-x64\\\\bundled\\\\libs\\\\debugpy','_OLD_VIRTUAL_PATH': 'C:\\\\Program Files (x86)\\\\Microsoft SDKs\\\\Azure\\\\CLI2\\\\wbin;C:\\\\Program Files\\\\Common Files\\\\Oracle\\\\Java\\\\javapath;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\Scripts\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\;C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.5.11-hotspot\\\\bin;C:\\\\Windows\\\\system32;C:\\\\Windows;C:\\\\Windows\\\\System32\\\\Wbem;C:\\\\Windows\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\;C:\\\\Windows\\\\System32\\\\OpenSSH\\\\;C:\\\\Program Files (x86)\\\\NVIDIA Corporation\\\\PhysX\\\\Common;C:\\\\Program Files\\\\dotnet\\\\;C:\\\\Program Files\\\\NVIDIA Corporation\\\\NVIDIA NvDLISR;C:\\\\Program Files\\\\Git\\\\cmd;C:\\\\Program Files\\\\Microsoft SQL Server\\\\150\\\\Tools\\\\Binn\\\\;C:\\\\Program Files\\\\Microsoft SQL Server\\\\Client SDK\\\\ODBC\\\\170\\\\Tools\\\\Binn\\\\;C:\\\\Program Files\\\\nodejs\\\\;C:\\\\ProgramData\\\\chocolatey\\\\bin;C:\\\\ProgramData\\\\chocolatey\\\\lib\\\\maven\\\\apache-maven-3.9.9\\\\bin;C:\\\\Program Files\\\\Amazon\\\\AWSCLIV2\\\\;C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\Scripts\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Programs\\\\Microsoft VS Code\\\\bin;C:\\\\Users\\\\xfran\\\\.dotnet\\\\tools;C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA 2024.3.3\\\\bin;;C:\\\\Program Files\\\\JetBrains\\\\IntelliJ IDEA Community Edition 2024.3.3\\\\bin;;C:\\\\Users\\\\xfran\\\\AppData\\\\Roaming\\\\npm;C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\GitHubDesktop\\\\bin;c:\\\\Users\\\\xfran\\\\.vscode\\\\extensions\\\\ms-python.debugpy-2025.8.0-win32-x64\\\\bundled\\\\scripts\\\\noConfigScripts','NUITKA_PYTHON_EXE_PATH': 'C:\\\\Users\\\\xfran\\\\Desktop\\\\challenge-mottu\\\\DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA\\\\software\\\\venv\\\\Scripts\\\\python.exe','NUITKA_PACKAGE_DIR': 'C:\\\\Users\\\\xfran\\\\Desktop\\\\challenge-mottu\\\\DISRUPTIVE-ARCHITECTURES-IOT-IOB-GENERATIVE-IA\\\\software\\\\venv\\\\Lib\\\\site-packages\\\\nuitka','NUITKA_CACHE_DIR_DOWNLOADS': 'C:\\\\Users\\\\xfran\\\\AppData\\\\Local\\\\Nuitka\\\\Nuitka\\\\Cache\\\\DOWNLO~1','_NUITKA_BUILD_DEFINITIONS_CATALOG': '_NUITKA_BUILD_DEFINITIONS_CATALOG','NUITKA_QUIET': '0'},\n    shell=False\n)",
+        "detail": "src.client.build.scons-debug",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DB_USER = \"pyser\"\nDB_PASSWORD = \"pypass\"\n# DB_HOST = \"localhost\"\nDB_HOST = \"py-mysql\"\nDB_PORT = \"3306\"\nDB_NAME = \"pyDB\"\nDATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASSWORD",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DB_PASSWORD = \"pypass\"\n# DB_HOST = \"localhost\"\nDB_HOST = \"py-mysql\"\nDB_PORT = \"3306\"\nDB_NAME = \"pyDB\"\nDATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DB_HOST = \"py-mysql\"\nDB_PORT = \"3306\"\nDB_NAME = \"pyDB\"\nDATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DB_PORT = \"3306\"\nDB_NAME = \"pyDB\"\nDATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DB_NAME = \"pyDB\"\nDATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# Criação da engine SQLAlchemy\nengine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "engine = create_engine(DATABASE_URL, echo=True)\n# Session para uso com o banco\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para os models\nBase = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.mottu.database.connection",
+        "description": "src.mottu.database.connection",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "src.mottu.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SensorData",
+        "kind": 6,
+        "importPath": "src.mottu.database.models",
+        "description": "src.mottu.database.models",
+        "peekOfCode": "class SensorData(Base):\n    __tablename__ = \"T_CM_POSICAO_MOTO\"\n    id_posicao = Column(String(64),name= 'ID_POSICAO', primary_key=True)\n    id_dispositivo = Column(Integer, name=\"ID_DISPOSITIVO\", nullable=False)\n    id_patio = Column(Integer, name=\"ID_PATIO\", nullable=False)\n    vl_coordx = Column(Float, name=\"VL_COORDX\", nullable=False)\n    vl_coordy = Column(Float, name=\"VL_COORDY\", nullable=False)\n    dt_registro = Column(DateTime, name=\"DT_REGISTRO\", nullable=False, default=datetime.now())\n    ds_setor = Column(String(50), name=\"DS_SETOR\", nullable=True)",
+        "detail": "src.mottu.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "gerar_hash",
+        "kind": 2,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "def gerar_hash(id_dispositivo, id_patio, data_hora_registro):\n    texto = f\"{id_dispositivo}-{id_patio}-{data_hora_registro}\"\n    return hashlib.sha256(texto.encode()).hexdigest()\ndef on_connect(client, userdata, flags, rc):\n    print(\"✅ Conectado ao broker com código\", rc)\n    client.subscribe(\"sensors/#\")\ndef on_message(client, userdata, msg):\n    print(f\"📨 Mensagem recebida em {msg.topic}: {msg.payload}\")\n    try:\n        payload = json.loads(msg.payload)",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "on_connect",
+        "kind": 2,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "def on_connect(client, userdata, flags, rc):\n    print(\"✅ Conectado ao broker com código\", rc)\n    client.subscribe(\"sensors/#\")\ndef on_message(client, userdata, msg):\n    print(f\"📨 Mensagem recebida em {msg.topic}: {msg.payload}\")\n    try:\n        payload = json.loads(msg.payload)\n        id_dispositivo = payload.get(\"Sensor\")\n        ip_wifi = payload.get(\"IP\")\n        intensidade_sinal = payload.get(\"RSSI\")",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "on_message",
+        "kind": 2,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "def on_message(client, userdata, msg):\n    print(f\"📨 Mensagem recebida em {msg.topic}: {msg.payload}\")\n    try:\n        payload = json.loads(msg.payload)\n        id_dispositivo = payload.get(\"Sensor\")\n        ip_wifi = payload.get(\"IP\")\n        intensidade_sinal = payload.get(\"RSSI\")\n        \"\"\"Lógica para triangular a localização da moto\n        --> Por enquanto usar valores randomicos\n        \"\"\"",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "client = mqtt.Client()\nclient.on_connect = on_connect\nclient.on_message = on_message\nclient.connect(\"py-mosquitto\", 1883)\n# client.connect(\"localhost\", 1883)\nclient.loop_forever()",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "client.on_connect",
+        "kind": 5,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "client.on_connect = on_connect\nclient.on_message = on_message\nclient.connect(\"py-mosquitto\", 1883)\n# client.connect(\"localhost\", 1883)\nclient.loop_forever()",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    },
+    {
+        "label": "client.on_message",
+        "kind": 5,
+        "importPath": "src.mottu.mqtt.client",
+        "description": "src.mottu.mqtt.client",
+        "peekOfCode": "client.on_message = on_message\nclient.connect(\"py-mosquitto\", 1883)\n# client.connect(\"localhost\", 1883)\nclient.loop_forever()",
+        "detail": "src.mottu.mqtt.client",
+        "documentation": {}
+    }
+]
