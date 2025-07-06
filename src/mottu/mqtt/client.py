@@ -4,10 +4,11 @@ import hashlib
 from random import randint
 import paho.mqtt.client as mqtt
 import json
-from mottu.database.connection import SessionLocal
-from mottu.database.models import SensorData
+from mottu.database.connection import SessionLocal, engine
+from mottu.database.models import SensorData, Base
 import sqlalchemy
 
+Base.metadata.create_all(bind=engine)
 
 
 def gerar_hash(id_dispositivo, id_patio, data_hora_registro):

@@ -140,6 +140,14 @@
         "documentation": {}
     },
     {
+        "label": "engine",
+        "importPath": "mottu.database.connection",
+        "description": "mottu.database.connection",
+        "isExtraImport": true,
+        "detail": "mottu.database.connection",
+        "documentation": {}
+    },
+    {
         "label": "Base",
         "importPath": "mottu.database.connection",
         "description": "mottu.database.connection",
@@ -225,6 +233,14 @@
     },
     {
         "label": "SensorData",
+        "importPath": "mottu.database.models",
+        "description": "mottu.database.models",
+        "isExtraImport": true,
+        "detail": "mottu.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
         "importPath": "mottu.database.models",
         "description": "mottu.database.models",
         "isExtraImport": true,
